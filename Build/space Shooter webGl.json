@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MyfirstInUnity",
+"productVersion": "0.1",
+"dataUrl": "space Shooter webGl.data.unityweb",
+"wasmCodeUrl": "space Shooter webGl.wasm.code.unityweb",
+"wasmFrameworkUrl": "space Shooter webGl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.2f1"
+}
